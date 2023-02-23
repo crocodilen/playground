@@ -1,5 +1,0 @@
-name,ring,quadrant,isNew,description
-SQL Server,adopt,tools,FALSE,"Det finns i dagsläget ingen anledning att byta databasmotor on-prem"
-Teknikforum,trial,techniques,NEW,"Mycket intressant koncept, bör flyttas in i ADOPT ;-)"
-Databricks,assess,platforms,TRUE,"'Data lakehouse: The best of both worlds in one platform' https://www.databricks.com/"
-COBOL,hold,languages & frameworks,FALSE,"STOP RUN."
